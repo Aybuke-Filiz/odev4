@@ -1,4 +1,4 @@
-//Kullanıcı doğru değeri girene kadar (yani en az bir kere) çalışması gerektiği için do-while döngüsünü kullanırız.
+// Döngümüz kullanıcı doğru değeri girene kadar (yani en az bir kere) çalışması gerektiği için do-while döngüsünü kullanırız.
 package random;
 import java.util.Random;
 import java.util.Scanner;
